@@ -1,0 +1,23 @@
+/* Se crean los estilos de la pagina index*/
+
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+
+    
+}
+
+h2{
+    padding: 20px;
+}
+/*#imagen{
+
+    width: 1200px;
+    height: 250px;
+    display: contents;
+    margin: 0 auto;
+   
+
+}
+
